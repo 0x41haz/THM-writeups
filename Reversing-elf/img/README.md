@@ -3,7 +3,7 @@
 <h4>and you have to just run that binary for that you have to change file permission first..</h4>
 
 https://github.com/0x41haz/THM-writeups/tree/main/Reversing-elf/img
-<img align="right" alt="IMG" src="https://github.com/0x41haz/THM-writeups/tree/main/Reversing-elf/img?raw=true" width="500" height="320" />
+<img align="right" alt="IMG" src="https://github.com/0x41haz/THM-writeups/blob/main/Reversing-elf/img/2021-12-10_16-26.png?raw=true" width="500" height="320" />
 
 
 
