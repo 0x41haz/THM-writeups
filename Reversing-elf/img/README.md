@@ -14,13 +14,13 @@
   
 <img align="centre" alt="IMG" src="https://github.com/0x41haz/THM-writeups/blob/main/Reversing-elf/img/2021-12-11_12-30.png?raw=true" width="1500" height="80" />
   <h4>lets try some random word like abcd,1234 etc..</h4>
- <img align="centre" alt="IMG" src="https://github.com/0x41haz/THM-writeups/blob/main/Reversing-elf/img/2021-12-11_12-31_1.png?raw=true" width="1500" height="80" />
+ <img align="centre" alt="IMG" src="https://github.com/0x41haz/THM-writeups/blob/main/Reversing-elf/img/2021-12-11_12-31_1.png?raw=true" width="1500" height="70" />
   <h4>oops access denied</h4>
   
   <h4> lets try strings(The strings command returns each string of printable characters in files) command to pull out the strings</h4>
 <img align="centre" alt="IMG" src="https://github.com/0x41haz/THM-writeups/blob/main/Reversing-elf/img/2021-12-11_12-31.png?raw=true" width="2000" height="350" />
   <h4>Lets try it as password </h4>
- <img align="centre" alt="IMG" src="https://github.com/0x41haz/THM-writeups/blob/main/Reversing-elf/img/2021-12-11_12-32.png?raw=true" width="1500" height="80" />
+ <img align="centre" alt="IMG" src="https://github.com/0x41haz/THM-writeups/blob/main/Reversing-elf/img/2021-12-11_12-32.png?raw=true" width="1500" height="70" />
   <h3>boom..we g*t the flag :)</h3>
   
   
