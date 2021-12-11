@@ -21,7 +21,7 @@
 <img align="centre" alt="IMG" src="https://github.com/0x41haz/THM-writeups/blob/main/Reversing-elf/img/2021-12-11_12-31.png?raw=true" width="2000" height="350" />
   <h4>Lets try it as password </h4>
  <img align="centre" alt="IMG" src="https://github.com/0x41haz/THM-writeups/blob/main/Reversing-elf/img/2021-12-11_12-32.png?raw=true" width="1500" height="80" />
-  <h3>boom..we got the flag :)</h3>
+  <h3>boom..we g*t the flag :)</h3>
   
  
   
