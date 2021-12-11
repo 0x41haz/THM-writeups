@@ -5,6 +5,13 @@
 <h4>As shown below...</h4>
 
 <img align="centre" alt="IMG" src="https://github.com/0x41haz/THM-writeups/blob/main/Reversing-elf/img/2021-12-10_16-26.png?raw=true" width="2000" height="320" />
-
+  
+  
+  
+  ............................................................................................
+  <h2>Crackme2</h2>
+  <h4>after running the binary you are asked to give the password as argument</h4>
+  
+<img align="centre" alt="IMG" src="https://github.com/0x41haz/THM-writeups/blob/main/Reversing-elf/img/2021-12-10_16-26.png?raw=true" width="2000" height="320" />
 
 
