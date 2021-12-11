@@ -15,9 +15,12 @@
 <img align="centre" alt="IMG" src="https://github.com/0x41haz/THM-writeups/blob/main/Reversing-elf/img/2021-12-11_12-30.png?raw=true" width="1500" height="90" />
   <h4>lets try some random word like abcd,1234 etc..</h4>
  <img align="centre" alt="IMG" src="https://github.com/0x41haz/THM-writeups/blob/main/Reversing-elf/img/2021-12-11_12-31_1.png?raw=true" width="1500" height="90" />
+  <h4>oops access denied</h4>
   
+  <h4> lets try strings command to pull out the strings</h4>
+<img align="centre" alt="IMG" src="https://github.com/0x41haz/THM-writeups/blob/main/Reversing-elf/img/2021-12-11_12-31.png?raw=true" width="1500" height="90" />
 
 
 
 
-https://github.com/0x41haz/THM-writeups/blob/main/Reversing-elf/img/2021-12-11_12-31_1.png
+https://github.com/0x41haz/THM-writeups/blob/main/Reversing-elf/img/2021-12-11_12-31.png
