@@ -17,10 +17,6 @@
  <img align="centre" alt="IMG" src="https://github.com/0x41haz/THM-writeups/blob/main/Reversing-elf/img/2021-12-11_12-31_1.png?raw=true" width="1500" height="90" />
   <h4>oops access denied</h4>
   
-  <h4> lets try strings command to pull out the strings</h4>
-<img align="centre" alt="IMG" src="https://github.com/0x41haz/THM-writeups/blob/main/Reversing-elf/img/2021-12-11_12-31.png?raw=true" width="1500" height="90" />
+  <h4> lets try strings(The strings command returns each string of printable characters in files) command to pull out the strings</h4>
+<img align="centre" alt="IMG" src="https://github.com/0x41haz/THM-writeups/blob/main/Reversing-elf/img/2021-12-11_12-31.png?raw=true" width="2000" height="350" />
 
-
-
-
-https://github.com/0x41haz/THM-writeups/blob/main/Reversing-elf/img/2021-12-11_12-31.png
