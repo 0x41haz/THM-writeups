@@ -59,14 +59,15 @@ password is correct
 --------------------------------------------------------------------------------------
 <h2>crackme2</h2>
 <h5> Now you are given a binary to do more analysis than the crackme1 . First run the binary </h5>
-```
-./crackme2.bin 
+
+```./crackme2.bin 
 enter your password
 llllll
 password is incorrect
 ```
 <h5> As the previous one you are asked to input password . after looking at the strings we have not anything yet</h5>
 <h5>Lets open it on gdb and disassemble the main function first</h5>
+
 ```Dump of assembler code for function main:
    0x000000000000071a <+0>:	push   rbp
    0x000000000000071b <+1>:	mov    rbp,rsp
@@ -98,23 +99,27 @@ password is incorrect
    0x0000000000000793 <+121>:	ret    
 End of assembler dump.
 ```
+
 <h5> at the line number 15th we can see that 0x137c is compared to our input . lets input it on password field</h5>
-```
-./crackme2.bin
+
+```./crackme2.bin
 enter your password
 0x137c
 password is incorrect
 ```
+
 <h5>oops! its incorrect .lets convert it ot decimal </h5>
-```
->>> hex ='0x137c'
+
+
+```>>> hex ='0x137c'
 >>> deci=int(hex, 16)
 >>> print(deci)
 4988
 ```
+
 <h5> it's 4988 . try it and we get as valid password </h5>
-```
-./crackme2.bin 
+
+```./crackme2.bin 
 enter your password
 4988
 password is valid
