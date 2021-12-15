@@ -108,7 +108,7 @@ enter your password
 password is incorrect
 ```
 
-<h5>oops! its incorrect .lets convert it ot decimal </h5>
+<h5>oops! its incorrect .lets convert it to decimal </h5>
 
 
 ```>>> hex ='0x137c'
